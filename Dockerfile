@@ -1,4 +1,4 @@
-FROM teamTeamLion-Xers/Lion:latest
+FROM errorshivansh/Lion:latest
 
 #clonning repo 
 RUN git clone https://github.com/MdNoor786/Lion-X.git /root/Lion
