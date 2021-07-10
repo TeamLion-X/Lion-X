@@ -1,7 +1,7 @@
 FROM errorshivansh/Lion:latest
 
 #clonning repo 
-RUN git clone https://github.com/MdNoor786/Lion-X.git /root/Lion
+RUN git clone https://github.com/MdNoor786/Lion_X.git /root/Lion
 
 #working directory 
 WORKDIR /root/Lion
