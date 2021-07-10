@@ -1,1 +1,1 @@
-worker: bash Lion-X
+worker: bash Lion
