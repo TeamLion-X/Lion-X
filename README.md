@@ -113,7 +113,7 @@
 ------
 # License
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+![](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TeamLion-X">TeamLion-X</a></h4>
 
