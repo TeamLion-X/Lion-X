@@ -62,7 +62,7 @@
 
 `python Lion_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start Lion By
 
 `bash start.sh`
 
@@ -87,7 +87,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your Lion-X Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheLion-X/Lion-X?v=1)
+- [![Replit]()](https://replit.com/@TheLion-X/Lion-X?v=1)
 
 ### Terminal
 - Open the terminal.
