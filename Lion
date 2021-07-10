@@ -4,10 +4,10 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LION_REPO == "Lion-X" ]]
+    if [[ $LION_REPO == "Lion" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL01kTm9vcjc4Ni9MaW9uLVgvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $LION_REPO == "Lion-X" ]]
+    elif [[ $LION_REPO == "Lion" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL01kTm9vcjc4Ni9MaW9uLVgvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $LION_REPO =~ $regex ]]
