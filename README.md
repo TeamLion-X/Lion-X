@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>ʟɨօռ-Ӽ🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="TeamLion-X">
+  <img src="https://telegra.ph/file/a74938c33a694dbe0c015.jpg" alt="TeamLion-X">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖֆ օʄ ʟɨօռ-Ӽ ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -31,16 +31,11 @@
 
 ------
 ## Deploy 🚀
-- [![Deploy](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
+- [![Deploy]()](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+- [![Locally]()](#Deploy-Locally)
 
-------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial&style=social)](https://youtu.be/pw2jCeM2sN4)
-
-------
+-----
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
@@ -138,5 +133,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 - 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
 - 💖 My Team Members For Supporting Me.
-
+- ❤️ Special Thanks and Credit to [HellBot](https://GitHub.com/the-hellbot/hellbot)
 ------
